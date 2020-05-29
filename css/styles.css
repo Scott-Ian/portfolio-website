@@ -78,8 +78,7 @@
 body {
   color: black;
   font-size: large;
-  background-image: url(https://unsplash.com/photos/WJkc3xZjSXw);
-  /* background-image: url(/img/woods-medium.jpg); */
+  background-image: url(/img/woods-medium.jpg);
   min-height: 20%;
   background-attachment: fixed;
   background-position: center;
