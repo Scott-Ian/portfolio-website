@@ -1,6 +1,6 @@
 .jumbotron {
-  background-color:rgb(255, 233, 217, 0.2);
-  color: #508C91;
+  background-color:rgb(255, 233, 217, 0.0);
+  color: black;
 }
 
 
@@ -16,10 +16,16 @@
   text-decoration: underline;
 }
 
-body {
-  background-image: url(/img/woods-medium.jpg);
-  color: white;
+.main-content{
+  /* background-color: rgb(66, 7, 21, 0.6); */
 }
+
+body {
+  background-image: url(/img/marble2-large.jpg);
+  color: black;
+  font-size: large;
+}
+
 
 .row {
   color: black;
