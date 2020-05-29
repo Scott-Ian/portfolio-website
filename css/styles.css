@@ -1,8 +1,11 @@
 .jumbotron {
-  background-color:skyblue;
-  color: salmon;
+  background-color:#FFE9D9;
+  color: #508C91;
 }
 
+body {
+  background-image: url(/img/woods-medium.jpg)
+}
 .jumbotron h1 {
   
 }
