@@ -25,6 +25,10 @@
   font-family: serif;
 }
 
+.btn {
+  background-color: green;
+}
+
 .main-content{
   margin-top: 25%;
 }
@@ -33,7 +37,7 @@
   background-color: whitesmoke;
   width: 100%;
   text-align: left;
-  padding-top: 10px;
+  padding-top: 5px;
   padding-bottom: 30px;
   padding-left: 30px;
   padding-right: 30px;
