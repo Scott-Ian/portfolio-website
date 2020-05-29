@@ -1,12 +1,15 @@
 .jumbotron {
-  background-color:rgb(255, 233, 217, 0.0);
+  background-color: white;
   color: black;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 
 .jumbotron img {
   float: right;
-  width: 200px;
+  width: 20%;
   height: auto;
   border-radius: 50%;
 }
@@ -17,7 +20,7 @@
 }
 
 .main-content{
-  /* background-color: rgb(66, 7, 21, 0.6); */
+  margin-top: 25%;
 }
 
 body {
