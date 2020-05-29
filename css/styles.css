@@ -3,6 +3,13 @@
   color: #508C91;
 }
 
+.jumbotron img {
+  float: right;
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+
 .container h1 {
   font-weight: bold;
   text-decoration: underline;
