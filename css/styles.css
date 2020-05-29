@@ -7,7 +7,6 @@
   height: 25%;
 }
 
-
 .jumbotron img {
   float: right;
   width: 15%;
@@ -15,14 +14,52 @@
   border-radius: 50%;
 }
 
-.container h1 {
+.jumbotron h1 {
   font-weight: bold;
-  text-decoration: underline;
   text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.jumbotron p {
+  text-align: center;
+  font-family: serif;
 }
 
 .main-content{
   margin-top: 25%;
+}
+
+.text-content {
+  background-color: whitesmoke;
+  width: 100%;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.text-content h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text-content p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.spacer {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.row {
+  color: black;
+}
+
+.well {
+  background-color: rgb(245, 245, 245, 0.2);
 }
 
 body {
@@ -37,36 +74,3 @@ body {
   padding: 0;
   margin: 0;
 }
-
-
-.row {
-  color: black;
-}
-
-.well {
-  background-color: rgb(245, 245, 245, 0.2);
-}
-
-.text-content {
-  background-color: white;
-  width: 100%;
-  text-align: left;
-}
-
-.text-content h1 {
-  text-decoration: underline;
-}
-
-.spacer {
-  padding-top: 5%;
-  padding-bottom: 5%;
-}
-
-/* .parallax1 {
-  background-image: url(/img/forest.jpg);
-  min-height: 20%;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-} */
