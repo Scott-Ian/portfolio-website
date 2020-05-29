@@ -63,7 +63,8 @@
 }
 
 .well {
-  background-color: rgb(245, 245, 245, 0.2);
+  border: 2px solid;
+  border-color: green;
 }
 
 body {
