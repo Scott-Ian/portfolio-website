@@ -23,6 +23,7 @@
 .jumbotron p {
   text-align: center;
   font-family: serif;
+  font-size: 25px;
 }
 
 .btn {
@@ -34,7 +35,7 @@
 }
 
 .text-content {
-  background-color: rgba(156, 178, 188, 0.6);
+  background-color: rgba(156, 178, 188, 0.8);
   width: 100%;
   text-align: left;
   padding-top: 5px;
@@ -51,6 +52,11 @@
 
 .text-content p {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+}
+
+.book-title {
+  text-decoration: underline;
 }
 
 .spacer {
@@ -66,6 +72,7 @@
   border: 2px solid;
   border-color: green;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
 }
 
 body {
