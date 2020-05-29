@@ -1,7 +1,8 @@
 .jumbotron {
-  background-color:#FFE9D9;
+  background-color:rgb(255, 233, 217, 0.2);
   color: #508C91;
 }
+
 
 .jumbotron img {
   float: right;
@@ -23,10 +24,7 @@ body {
 .row {
   color: black;
 }
-.jumbotron h1 {
-  
-}
 
-.jumbotron p {
-  
+.well {
+  background-color: rgb(245, 245, 245, 0.2);
 }
